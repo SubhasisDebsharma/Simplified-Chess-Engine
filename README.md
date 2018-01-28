@@ -54,4 +54,4 @@ White is the next to move, and they can win the game in  move by taking their Kn
 ### Solution:  
 Find the solution of the problem in [Solution.java](https://github.com/SubhasisDebsharma/Simplified-Chess-Engine/blob/master/Solution.java).      
 Algorithm of [Alpha Beta Pruning](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/) is used.     
-<span style="color: #f03c15">Use Java7 for faster functioning.</span>
+<span style="color: #FF0000">Use Java7 for faster functioning.</span>
