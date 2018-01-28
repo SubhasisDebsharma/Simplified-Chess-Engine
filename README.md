@@ -1,6 +1,6 @@
 # Simplified-Chess-Engine
      
-Chess is a very popular game played by hundreds of millions of people. Nowadays, we have chess engines such as Stockfish and Komodo to help us analyze games. These engines are very powerful pieces of well-developed software that use intelligent ideas and algorithms to analyze positions and sequences of moves, as well as find tactical ideas. Consider the following simplified version of chess:    
+Chess is a very popular game played by hundreds of millions of people. Nowadays, we have chess engines such as [Stockfish](https://stockfishchess.org/) and [Komodo](https://komodochess.com/) to help us analyze games. These engines are very powerful pieces of well-developed software that use intelligent ideas and algorithms to analyze positions and sequences of moves, as well as find tactical ideas. Consider the following simplified version of chess:    
 * Board: It's played on a `4 X 4` board between two players named Black and White.     
 * Pieces and Movement:    
      * White initially has  pieces and Black initially has  pieces.    
@@ -52,4 +52,8 @@ White is the next to move, and they can win the game in  move by taking their Kn
 [https://www.hackerrank.com/challenges/simplified-chess-engine/problem](https://www.hackerrank.com/challenges/simplified-chess-engine/problem)       
 
 ### Solution:  
-Find solved problem in [Solution.java](https://github.com/SubhasisDebsharma/Simplified-Chess-Engine/blob/master/Solution.java) using java7    
+Find the solution of the problem in [Solution.java](https://github.com/SubhasisDebsharma/Simplified-Chess-Engine/blob/master/Solution.java).      
+Algorithm of [Alpha Beta Pruning](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-4-alpha-beta-pruning/) is used.     
+```
+Use Java7 for faster functioning.   
+```
